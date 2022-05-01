@@ -12,7 +12,8 @@
    
 ## Credits
 
-   - Starting template by: StartBootstrap
+   - Starting template by: BootstrapMade.com
       
-       - https://github.com/startbootstrap/startbootstrap-resume
-       - https://startbootstrap.com/theme/resume
+       - Template Name: iPortfolio - v3.7.0
+       - Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+       - License: https://bootstrapmade.com/license/
