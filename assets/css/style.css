@@ -548,6 +548,21 @@ section {
   bottom: 0;
 }
 
+.portfolio .portfolio-wrap:hover .portfolio-links {
+  opacity: 1;
+  bottom: 0;
+}
+
+.portfolio .portfolio-wrap h3{
+  position: absolute;
+  color: black;
+  left: 2.5%;
+  top: 2.5%;
+  background-color: rgba(110, 110, 110, .4);
+  opacity: .75;
+  border-radius: 10%;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
