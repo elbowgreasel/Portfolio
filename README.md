@@ -1,15 +1,11 @@
 # Jaden Kropp's Portfolio
    
-   This is the repository for my future portfolio
+   Reposity for my portfolio: https://develbowgrease.netlify.app/
    
 ## About
    
-   - If you like parts of my portfolio and would like to use it for yourself please do so.
-   
-## Features
+   - My name is Jaden Kropp and this is my portfolio!
 
-   - to update
-   
 ## Credits
 
    - Starting template by: BootstrapMade.com
